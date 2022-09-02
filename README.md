@@ -9,16 +9,15 @@ for the Hilton hotel in my hometown in Romania. I was always a creative type of 
 While I've loved everywhere I've worked, I trully feel like entering the coding world is something that i was always
 passioned abot. I love traveling, Game of Thrones, music, people and movies. Stop by and say hi!
 
-
 ###😄 Pronouns: he/him
 
 ## Some technology I use:
-### Javascript
-### HTML5
-### CSS3
-### AJAX
-### jQuery
-### NodeJS
+### - Javascript
+### - HTML5
+### - CSS3
+### - AJAX
+### - jQuery
+### - NodeJS
 
 ### 🔭 I’m currently working on daily labs and weekly projects.
 
@@ -26,8 +25,7 @@ passioned abot. I love traveling, Game of Thrones, music, people and movies. Sto
 
 Here are some ideas to get you started:
 
-- 
-- 🌱 I’m currently learning Javascript, jQuery, HTML, CSS,NodeJS and Express.
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
