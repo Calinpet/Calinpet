@@ -23,8 +23,12 @@ passioned abot. I love traveling, Game of Thrones, music, people and movies. Sto
 
 📫 How to reach me: calin.petrut86@gmail.com
 
+</br>
+
 Here are some ideas to get you started:
 [![Calinpet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calinpet)](https://github.com/Calinpet/github-readme-stats)
+
+</br>
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
