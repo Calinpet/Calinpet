@@ -25,7 +25,6 @@ passioned abot. I love traveling, Game of Thrones, music, people and movies. Sto
 
 </br>
 
-Here are some ideas to get you started:
 [![Calinpet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calinpet)](https://github.com/Calinpet/github-readme-stats)
 
 </br>
