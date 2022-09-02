@@ -11,14 +11,28 @@ passioned abot. I love traveling, Game of Thrones, music, people and movies. Sto
 <!--
 **Calinpet/Calinpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+###😄 Pronouns: he/him
+
+## Some technology I use:
+### Javascript
+### HTML5
+### CSS3
+### AJAX
+### jQuery
+### NodeJS
+
+### 🔭 I’m currently working on daily labs and weekly projects.
+
+📫 How to reach me: calin.petrut86@gmail.com
+
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on daily labs and weekly projects.
+- 
 - 🌱 I’m currently learning Javascript, jQuery, HTML, CSS,NodeJS and Express.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: calin.petrut86@gmail.com
-- 😄 Pronouns: he/him
+- 
 - ⚡ Fun fact: ...
 -->
