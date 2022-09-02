@@ -8,8 +8,7 @@ for the Hilton hotel in my hometown in Romania. I was always a creative type of 
 
 While I've loved everywhere I've worked, I trully feel like entering the coding world is something that i was always
 passioned abot. I love traveling, Game of Thrones, music, people and movies. Stop by and say hi!
-<!--
-**Calinpet/Calinpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ###😄 Pronouns: he/him
 
