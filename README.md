@@ -25,7 +25,7 @@ passioned about. I love traveling, Game of Thrones, music, people and movies. St
 
 </br>
 
-[![Calinpet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calinpet)](https://github.com/Calinpet/github-readme-stats)
+[![Calinpet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Calinpet&theme=tokyonight)](https://github.com/Calinpet/github-readme-stats)
 
 </br>
 
