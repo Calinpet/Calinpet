@@ -21,7 +21,7 @@ passioned about. I love traveling, Game of Thrones, music, people and movies. St
 
 ### 🔭 I’m currently working on daily labs and weekly projects.
 
-📫 How to reach me: calin.petrut86@gmail.com
+📫 How to reach me: calin.petrut86@gmail.com </br>
 📫 How to connect with me: [LinkedIn](https://www.linkedin.com/in/calin-petrut-321494b1/)
 
 </br>
@@ -33,6 +33,6 @@ passioned about. I love traveling, Game of Thrones, music, people and movies. St
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm originally from Transylvania and yes that's a real place in the N-W part of Romania. :)  
 - ✏️ VS Code is my favorite editor!
 
