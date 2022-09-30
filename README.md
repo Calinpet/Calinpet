@@ -30,6 +30,14 @@ passioned about. I love traveling, Game of Thrones, music, people and movies. St
 
 </br>
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Calinpet&langs_count=5&theme=tokyonight)]()
+
+</br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Calinpet&theme=dark)](https://git.io/streak-stats)
+
+</br>
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
