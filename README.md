@@ -51,9 +51,6 @@ passioned about. I love traveling, Game of Thrones, music, people and movies. St
 
 </br>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - ⚡ Fun fact: I'm originally from Transylvania and yes that's a real place in the N-W part of Romania. :)  
 - ✏️ VS Code is my favorite editor!
 
