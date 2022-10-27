@@ -9,7 +9,6 @@ for the Hilton hotel in my hometown in Romania. I was always a creative type of 
 While I've loved everywhere I've worked, I trully feel like entering the coding world is something that i was always
 passioned about. I love traveling, Game of Thrones, music, people and movies. Stop by and say hi!
 
-### 😄 Pronouns: he/him
 
 <div align="center">
 
